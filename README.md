@@ -43,4 +43,4 @@ Pinky Finger: Magenta (default)
 
 Exit: Press the q key while the display window is active to safely terminate the program.
 
-### by vira
+### by sema
